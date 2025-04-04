@@ -7,3 +7,5 @@ def ada():
     print(nombre.title())
     print(nombre.upper())
     print(2*"\t" + nombre.lower())
+    
+print(ada())
