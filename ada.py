@@ -5,4 +5,3 @@ def ada():
 	print(f"{first_name.title()} {last_name.title()}")
 	print(f"{first_name.upper()} {last_name.upper()}")
 	print(f"\t{first_name.lower()} {last_name.lower()}")
-	
